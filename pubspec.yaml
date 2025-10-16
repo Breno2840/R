@@ -11,6 +11,17 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # 🎧 Áudio e serviços
+  just_audio: ^0.9.36
+  audio_service: ^0.18.12
+
+  # 🌐 Rede e armazenamento
+  http: ^1.1.0
+  shared_preferences: ^2.2.2
+
+  # 🎨 Cores de imagens
+  palette_generator: ^0.3.3+3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
